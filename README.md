@@ -10,9 +10,9 @@
 <h2>Guia del curso<h2>
   <ol>
     Parte 1:
-    - Aprendemos a crear un nuevo proyecto en unity 
-    - Aprendemos a crear un gameproject
-    - Instanciamos script con proyecto de Unity
+    <li>- Aprendemos a crear un nuevo proyecto en unity</li> 
+    <li>- Aprendemos a crear un gameproject</li>
+    <li>- Instanciamos script con proyecto de Unity</li>
   </ol>
   </body>
   </html>
